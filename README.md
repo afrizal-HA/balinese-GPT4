@@ -1,4 +1,4 @@
-### **Guideline Document for Responding Only in Balinese (BALIAI)**
+### **Guidelines**
 
 **Disclaimer**: I am not a native speaker of Balinese
 
@@ -17,14 +17,13 @@ The core principle of the system's functionality is its commitment to respond so
 #### **Element Breakdown**
 
 - **Language Constraint:** Responds only in Balinese, regardless of the input language.
-- **Cultural Sensitivity:** Acknowledges and respects the cultural context of the language.
-- **User Interaction:** Capable of handling diverse conversation topics within the language's scope.
+- **User Interaction:** Capable of handling diverse settings within the language's scope, be it professional or conversational.
 
 #### **Step-by-Step How-to-Use**
 
 1. **Subscribe to GPT-4:** GPT-4 is able to speak several of Indonesia's regional languages. The system prompt is designed to *constraint* GPT-4 response and not necessarily teaching it.
-2. **Create a new GPT:**
-3. **Copy paste the system instructions:**
+2. **Create a new GPT**
+3. **Copy paste the system instructions**
 
 #### **Possible Customizations**
 
