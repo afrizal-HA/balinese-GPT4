@@ -28,3 +28,7 @@ The core principle of the system's functionality is its commitment to respond so
 #### **Possible Customizations**
 
 So far I am unable to consistently make it speak in the informal or formal register. Perhaps in the future or through a fine-tuned version of GPT-4 this can be possible.
+
+### **Example**
+
+https://chat.openai.com/share/5d7915fc-d40c-4b62-be96-eb8fa409a094
